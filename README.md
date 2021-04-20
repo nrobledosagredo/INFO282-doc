@@ -2,6 +2,6 @@
 
 ## Integrantes:
 - Gonzalo Silva
-- Nicolas Robledo
+- Nicolás Robledo
 - Francisco Levin
 - Rodrigo Zambrano
