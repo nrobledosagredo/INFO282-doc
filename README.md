@@ -1,4 +1,4 @@
-# Proyecto de Desarrollo de Software para INFO248 / INFO282:
+# Proyecto de desarrollo de software para INFO248 y INFO282
 
 ## Integrantes:
 - Nicolás Robledo
