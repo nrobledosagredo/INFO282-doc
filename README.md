@@ -7,4 +7,4 @@
 
 Contiene todo lo relacionado a la documentación.
 
-Lo relacionado a código se encuentra en: https://github.com/nrobledosagredo/INFO282-code
+Lo relacionado a código se encuentra en: https://github.com/flevim/ProyectoPasteleriaValdivia
